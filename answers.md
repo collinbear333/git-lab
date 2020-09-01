@@ -51,4 +51,29 @@ collaborate (see also: git help workflows)
    fetch             Download objects and refs from another repository
    pull              Fetch from and integrate with another repository or a local branch
    push              Update remote refs along with associated objects
-Answer 4:
+Answer 4: Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+        answers.md
+Answer 5: No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        answers.md
+Answer 6:No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+Answer 7:On branch master
+nothing to commit, working tree clean                        
+Answer 8:commit 9bbc02056bb9183ab77379275fc6514d8f08bf2d (HEAD -> master)
+Author: Collin Bartlett <cb565019@ohio.edu>
+Date:   Tue Sep 1 17:08:28 2020 -0400
+
+    Initial commit

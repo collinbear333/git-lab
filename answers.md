@@ -77,3 +77,21 @@ Author: Collin Bartlett <cb565019@ohio.edu>
 Date:   Tue Sep 1 17:08:28 2020 -0400
 
     Initial commit
+Answer 9: Both files are there
+Answer 10: Nope
+Answer 11:  ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/collinbear333/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Answer 12: The changes made were reflected on the local copy
+Answer 13: Get-ChildItem : Parameter cannot be processed because the parameter name 'a' is ambiguous. Possible matches include:
+-Attributes -Directory -File -Hidden -ReadOnly -System.
+At line:1 char:4
++ ls -a
++    ~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException
+    + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.GetChildItemCommand
+    Answer 14:
